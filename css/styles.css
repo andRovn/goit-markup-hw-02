@@ -39,6 +39,25 @@
   color: #404bbf;
 }
 
+.add {
+  font-style: normal;
+}
+
+.add-list {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.add:hover {
+  color: #404bbf;
+}
+
+.add:focus {
+  color: #404bbf;
+}
+
 .contact {
   font-style: normal;
   list-style: none;
@@ -49,14 +68,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.contact-link:hover {
-  color: #404bbf;
-}
-
-.contact-link:focus {
-  color: #404bbf;
 }
 
 .hero {
@@ -97,6 +108,33 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+.third-title {
+  color: #404bbf;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.par-features {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.section-four {
+  background-color: #f4f4fd;
+}
+
+.list-four {
+  background-color: #ffffff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .foot {
