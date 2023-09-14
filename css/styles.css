@@ -94,6 +94,10 @@ footer {
   color: #4d5ae5;
 }
 
-.studio {
+.logo-two {
+  font-family: "Raleway";
+  font-size: 18px;
+  line-height: 1.15;
+  font-weight: bolder;
   color: #f4f4fd;
 }
