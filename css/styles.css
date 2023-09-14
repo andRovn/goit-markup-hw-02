@@ -89,3 +89,54 @@
 .click:focus {
   background-color: #404bbf;
 }
+
+.second-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.foot {
+  background-color: #2e2f42;
+}
+
+.foot-studio {
+  color: #f4f4fd;
+}
+
+.foot-par {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+.click-port {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+
+.click-port:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.click-port:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.par {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
