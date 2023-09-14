@@ -50,11 +50,11 @@
   color: #434455;
 }
 
-.add:hover {
+.add-list:hover {
   color: #404bbf;
 }
 
-.add:focus {
+.add-list:focus {
   color: #404bbf;
 }
 
